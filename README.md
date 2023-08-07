@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Web Development, DSA and Design Patterns
 - 💞️ I’m looking to collaborate on Open Source Software Development Applications espically those related to GIS apps
 - 📫 How to reach me:
-      Here is my Email: abdellrhmanabdulla@gmail.com 
+      Here is my Email: abdellrhmanabdulla@gmail.com
+  
       Here is my Linkedin: https://www.linkedin.com/in/abdelrhmanabdulla
 
 <!---
