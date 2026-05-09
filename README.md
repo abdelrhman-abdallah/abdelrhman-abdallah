@@ -29,6 +29,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://komarev.com/ghpvc/?username=abdelrhman-abdallah&icon=1&color=13)](https://visitcount.itsvg.in)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=abdelhman-abdallah)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
